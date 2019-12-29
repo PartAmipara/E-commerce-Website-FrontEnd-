@@ -1,0 +1,147 @@
+*{
+  margin : 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.logo{
+  font-family: 'Italianno', cursive;
+  padding-left: 140px;
+  padding-top: 10px;
+
+}
+h1{
+  font-size: 3.5rem;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  border-bottom-style: solid;
+  border-top-style: solid;
+  border-color: rgb(144, 153, 146);
+}
+
+.categories ul{
+  padding-left: 120px;
+  margin-top: 10px;;
+}
+
+.categories ul li{
+  display: inline-flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.search-bar{
+  padding-right: 10px;
+
+}
+.input-format{
+  text-align: right;
+  border: hidden;
+}
+
+.third-bar{
+  padding-top: 10px;
+  padding-left: 130px;
+}
+
+.image-option ul li{
+  display: inline-flex !important;
+}
+
+#more-shoes{
+  height: auto;
+  width: 160px;
+}
+
+.main-image{
+  height: 480px;;
+  width: 640px;
+}
+
+section{
+  float: left;
+  padding-left: 120px;
+}
+aside{
+  float: right;
+  padding-right: 210px;
+  font-family: 'Gupter', serif;
+}
+
+.first ul li{
+  display: inline-flex;
+}
+.rating ul li{
+  display: inline-flex;
+}
+
+.written ul li{
+  display: block;
+}
+
+.written{
+  border-bottom-style: dotted;
+  border-color: rgb(144, 153, 146);
+}
+
+.qwe{
+  padding-top: 10px;
+}
+
+.add{
+  width: 100%;
+}
+.what ul li{
+  display: inline-flex;
+}
+.what ul{
+  padding-top: 10px;
+}
+
+.to{
+  width: 100%;
+}
+.COMPARE{
+  width: 100%;
+  font-size: 100%;
+  text-align: center;
+}
+.xyz{
+  display: hidden;
+  font-weight: hidden;
+}
+
+footer{
+  border-top-style: ridge;
+  border-color: ;
+  clear : both;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: lighter;
+}
+.base ul li{
+  display: inline-flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fa-paypal{
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.fa-cc-visa{
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.fa-google-wallet{
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.fa-money{
+  padding-top: 5px;
+  padding-right: 10px;
+}
